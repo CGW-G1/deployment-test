@@ -10,7 +10,7 @@ if (env) {
             config.baseURL = "http://stage.localhost/";
             break;
         case "PRODUCTION":
-            config.baseURL = "http://lcalhost.com/";
+            config.baseURL = "http://localhost.com/";
     }
 };
 
