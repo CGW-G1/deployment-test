@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/https//CGW-G1.github.io/deployment-test/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/https//CGW-G1.github.io/deployment-test/static/js/main.226ab0fd.chunk.js",
+    "main.js.map": "/https//CGW-G1.github.io/deployment-test/static/js/main.226ab0fd.chunk.js.map",
+    "runtime-main.js": "/https//CGW-G1.github.io/deployment-test/static/js/runtime-main.91163680.js",
+    "runtime-main.js.map": "/https//CGW-G1.github.io/deployment-test/static/js/runtime-main.91163680.js.map",
+    "static/js/2.98f78bba.chunk.js": "/https//CGW-G1.github.io/deployment-test/static/js/2.98f78bba.chunk.js",
+    "static/js/2.98f78bba.chunk.js.map": "/https//CGW-G1.github.io/deployment-test/static/js/2.98f78bba.chunk.js.map",
+    "static/js/3.23c7b204.chunk.js": "/https//CGW-G1.github.io/deployment-test/static/js/3.23c7b204.chunk.js",
+    "static/js/3.23c7b204.chunk.js.map": "/https//CGW-G1.github.io/deployment-test/static/js/3.23c7b204.chunk.js.map",
+    "index.html": "/https//CGW-G1.github.io/deployment-test/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/https//CGW-G1.github.io/deployment-test/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.98f78bba.chunk.js.LICENSE.txt": "/https//CGW-G1.github.io/deployment-test/static/js/2.98f78bba.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/https//CGW-G1.github.io/deployment-test/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91163680.js",
+    "static/js/2.98f78bba.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.226ab0fd.chunk.js"
+  ]
+}
